@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="#FFFFE0" /> <!-- 淡黄色 -->
+    <size android:width="50dp" android:height="50dp" /> <!-- 定义圆的宽和高，根据需要调整 -->
+</shape>
